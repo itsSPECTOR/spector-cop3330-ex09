@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * UCF COP3330 Fall 2021 Assignment 8 Solution
+ * UCF COP3330 Fall 2021 Assignment 9 Solution
  * Copyright 2021 Reese Spector
  *
  */
@@ -31,7 +31,5 @@ public class App
 
         //print summary
         System.out.print("You will need to purchase " + Math.round((totalArea / GAL)) + " gallons of paint to cover " + Math.round(totalArea) + " square feet.");
-
-
     }
 }
